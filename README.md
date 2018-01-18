@@ -1,1 +1,35 @@
-# project
+# <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>facialthings</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
+
+</head>
+
+<body class="main">
+
+    <div class="wrapper">
+
+        <h1 class="pfeil">↓</h1>
+        <video class="videoBackground" src="hintergrund_editorklein.mp4" autoplay loop></video>
+    </div>
+
+    <div class="spracheButtonEn"><a href="start_deutsch.html"><span>DE</span></a></div>
+
+    <div class="text_aufmacher">
+        <p>
+            Dance is an unique art with the ability to connect people as well as convey strong feelings to everyone, regardless of language or culture. Without any words, dance can create deep emotional reactions that even the loudest scream could never imply. But how is that possible? Is it the dancer‘s facial expressions or her way of movement that causes goose bumps? Do others feel the same way? Let‘s give dance a new kind of language and find out. Be part of the experiment!
+        </p>
+
+        <p>On the following web page you will see ten different clips of the same dance video. You can watch the individual clip as often as you desire to. In the textfield below the video you can type in your thoughts, feelings, associations. By pressing enter the comments will be send directly to us. Simultaneously the next clip will appear. Happy, sad, confused, you get hungry and want to eat chips? Tell us. We are very curious. No answer is wrong. After your successfull completion, the next video is already waiting for you. It is a bit longer - Don‘t panic. It is only half as long as the newest Justin Bieber video.- and follows the same rules as the clips. As soon as you click on the textfield the video stops. It starts again when you press enter. You can write whatever and whenever you want to. You have a big need to communicate? All the better. Don‘t be shy and make your keyboard glow!
+        </p>
+
+        <div id="startButton"><a href="clipexpressions.html"><span>start the project</span></a></div>
+    </div>
+</body>
+
+</html>
